@@ -1,2 +1,1 @@
-# MentalHealthInTech_sql
- 
+# MentalHealthInTech_SQL
